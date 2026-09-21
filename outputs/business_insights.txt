@@ -1,0 +1,6 @@
+1. High-Value Automation Customers has the highest average annual spend at approximately INR 541,261.
+2. Frequent Automation Buyers has the highest average order frequency at approximately 8.4 orders per customer.
+3. Active Growth Customers is the largest customer segment, containing 151 of 360 customers.
+4. Robotics is the most common product category in the generated customer base.
+5. Chennai has the largest number of customers in the generated dataset.
+6. Segment-level differences can support targeted product recommendations and customer engagement strategies.

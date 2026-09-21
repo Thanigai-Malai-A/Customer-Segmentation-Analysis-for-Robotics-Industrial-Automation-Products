@@ -1,0 +1,5 @@
+Cluster,Customers,Avg_Annual_Spend,Avg_Orders,Avg_Order_Value,Avg_Recency_Days,Avg_Purchase_Frequency,Top_Product_Category,Top_Industry,Top_Region,Segment
+0,151,174611.31609271522,4.304635761589404,42461.10546783349,39.80132450331126,0.358719646799117,Sensors,Warehouse & Logistics,Pune,Active Growth Customers
+1,56,215841.94535714286,4.910714285714286,46453.93921215986,120.39285714285714,0.4092261904761905,Control,General Engineering,Bengaluru,Low-Activity Customers
+2,51,541260.5578431372,3.392156862745098,169562.9071650327,48.568627450980394,0.2826797385620915,Robotics,Automotive,Chennai,High-Value Automation Customers
+3,102,356978.23215686274,8.42156862745098,44356.797192157246,51.59803921568628,0.701797385620915,Sensors,Electronics,Pune,Frequent Automation Buyers
